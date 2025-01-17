@@ -1,1 +1,1 @@
-This repository contains my written submission for a final project. It goes over my process of how to create an environment variable, log TLS keys to a text file, and utilize those keys to decrypt data using Wireshark.
+This repository contains my final project submission, documenting the process I followed to set up an environment variable, log TLS keys to a text file, and use those keys to decrypt data with Wireshark.
